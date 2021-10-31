@@ -17,6 +17,20 @@ Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a apre
 
 ### Grafos
 
+## Ordenação
+
+## Hashtable
+
+### Insertion sort
+
+### Mergesort
+
+### Quick sort
+
+### Selection Sort
+
+### Timsort
+
 ## Conceitos
 
 ### Busca Binária
