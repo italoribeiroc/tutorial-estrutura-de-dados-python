@@ -1,0 +1,2 @@
+def buscaBinaria(arr):
+    pass
