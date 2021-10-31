@@ -7,6 +7,8 @@ Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a apre
 
 ### Arrays
 
+### Hashtable
+
 ### Lista Encadeada
 
 ### Pilha
@@ -18,8 +20,6 @@ Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a apre
 ### Grafos
 
 ## Ordenação
-
-## Hashtable
 
 ### Insertion sort
 
