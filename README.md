@@ -3,35 +3,35 @@
 Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a aprenderem estrutura de dados de uma maneira prática
 
 
-## Estrutura de dados
+## [Estrutura de dados](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados)
 
 ### Arrays
 
-### Lista Encadeada
+### Hashtable
 
-### Pilha
+### [Lista Encadeada](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/listaEncadeada)
 
-### Fila
+### [Pilha](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/pilha)
+
+### [Fila](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/fila)
 
 ### Arvores
 
 ### Grafos
 
-## Ordenação
+## [Ordenação](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao)
 
-## Hashtable
+### [Insertion sort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/isertionSort)
 
-### Insertion sort
+### [Mergesort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/mergeSort)
 
-### Mergesort
+### [Quick sort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/quickSort)
 
-### Quick sort
+### [Selection Sort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/selectionSort)
 
-### Selection Sort
+### [Timsort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/timSort)
 
-### Timsort
-
-## Conceitos
+## [Conceitos](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Conceitos)
 
 ### Busca Binária
 
