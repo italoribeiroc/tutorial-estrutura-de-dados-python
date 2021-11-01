@@ -23,6 +23,7 @@ Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a apre
 
 ### [Insertion sort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/isertionSort)
 
+
 ### [Mergesort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/mergeSort)
 
 ### [Quick sort](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Ordenacao/quickSort)
