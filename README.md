@@ -7,7 +7,7 @@ Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a apre
 
 ### Arrays
 
-### [Hash Table](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/hashtable)
+### [Hash Table](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/hashTable)
 
 ### [Lista Encadeada](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/listaEncadeada)
 
