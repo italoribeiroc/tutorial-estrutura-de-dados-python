@@ -3,17 +3,17 @@
 Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a aprenderem estrutura de dados de uma maneira prática
 
 
-## [Estrutura de dados](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados)
+## [Estrutura de dados](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados)
 
 ### Arrays
 
-### [Hash Table](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/hashtable)
+### [Hash Table](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/hashtable)
 
-### [Lista Encadeada](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/listaEncadeada)
+### [Lista Encadeada](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/listaEncadeada)
 
-### [Pilha](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/pilha)
+### [Pilha](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/pilha)
 
-### [Fila](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura%20de%20Dados/fila)
+### [Fila](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados/fila)
 
 ### Arvores
 
