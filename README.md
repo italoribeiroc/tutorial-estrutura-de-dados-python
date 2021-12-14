@@ -1,6 +1,8 @@
 # Tutorial de Estrutura de Dados com Python
 
-Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a aprenderem estrutura de dados de uma maneira prática
+Esse projeto tem como objetivo ser um tutorial que ajude todas as pessoas a aprenderem estrutura de dados de uma maneira prática.
+
+Cada diretório tem um arquivo de descrição explicando teoricamente os conceitos, e um arquivo .py com a implementação respectivo conteúdo.
 
 
 ## [Estrutura de dados](https://github.com/italoribeiroc/tutorial-estrutura-de-dados-python/tree/main/Estrutura_de_Dados)
