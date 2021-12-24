@@ -35,5 +35,8 @@ class HashTable:
             current = current.next
     
     def __str__(self) -> str:
-        return self.data.__repr__()
+        show = ""
+        for elem in self.data:
+            show += str(elem) + '#'
+        return "\n".join(show.split('#'))
 
