@@ -17,7 +17,13 @@ class HashTable:
     def put(self, key, value):
         hashCode = self.getHashCode(key)
         index = self.convertToIndex(hashCode)
-        self.data[index].append((key, value))
+        if self.get(key) is None:
+            self.data[index].append([key, value])
+        else:
+            current = self.data[index].head
+            while current.data[0] != key:
+                current = current.next
+            current.data[1] = value
 
     def get(self, key):
         hashCode = self.getHashCode(key)
@@ -27,3 +33,7 @@ class HashTable:
             if current.data[0] == key:
                 return current.data[1]
             current = current.next
+    
+    def __str__(self) -> str:
+        return self.data.__repr__()
+
