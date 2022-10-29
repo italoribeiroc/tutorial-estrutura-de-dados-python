@@ -1,7 +1,7 @@
 import unittest
 import sys
 
-from numpy import size
+
 sys.path.append('Estrutura_de_Dados/listaEncadeada')
 
 from listaEncadeada import ListaEncadeada
