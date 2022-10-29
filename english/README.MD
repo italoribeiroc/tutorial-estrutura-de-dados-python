@@ -1,6 +1,6 @@
 # Data Structure with Python Tutorial
 
-This project has the main point to be a helping tutorial to people learn data structure in a practical way.
+This project has the main point to be a helping hand tutorial to people learn data structure in a practical way.
 
 Each directory contain a description file explaining concepts teorically, and a .py file with the respective content implementation.
 
