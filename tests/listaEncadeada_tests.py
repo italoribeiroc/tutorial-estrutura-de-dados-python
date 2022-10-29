@@ -1,7 +1,7 @@
 import unittest
 import sys
 
-from numpy import size
+
 sys.path.append('Estrutura_de_Dados/listaEncadeada')
 
 from listaEncadeada import ListaEncadeada
@@ -26,6 +26,15 @@ class TestListaEncadeada(unittest.TestCase):
         self.assertEqual(str(listTest), '[5 -> 10 -> None]')
         listTest.deleteWithValue(5)
         self.assertEqual(str(listTest), '[10 -> None]')
+    
+    def test_prepend(self):
+        listTest = ListaEncadeada()
+        listTest.append(5)
+        listTest.append(8)
+        listTest.append(10)
+        self.assertEqual(str(listTest), '[5 -> 8 -> 10 -> None]')
+        listTest.prepend(13)
+        self.assertEqual(str(listTest), '[13 -> 5 -> 8 -> 10 -> None]')
 
 if __name__ == '__main__':
     unittest.main()
